@@ -15,3 +15,4 @@ venv
 *.egg-info
 build
 dist
+software-architect-mindset/
